@@ -14,4 +14,4 @@ Manage your data securely, quickly, and without loss with Tarsave!
 
 **You can download the package from [Unity Asset Store](https://assetstore.unity.com/packages/slug/301159)**
 
-**See also this page for more details: [Tarsave - Gitbook](https://tariksavas.gitbook.io/tarsave)**
+**See also [Docs](https://tariksavas.gitbook.io/tarsave)**
