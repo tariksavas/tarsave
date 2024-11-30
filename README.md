@@ -8,9 +8,11 @@ Tarsave supports AES encryption, ensuring that your data is securely protected. 
 
 Additionally, Tarsave includes an automatic backup feature that creates backups with every save operation. Both the save files and backup files are stored in `Application.persistentDataPath`, ensuring that your data is always protected, and you can easily restore previous versions in case of any issues.
 
+Tarsave now also supports data compression, reducing the size of saved files without sacrificing performance. This is especially beneficial for large datasets, as it optimizes storage usage while maintaining quick save and load times.
+
 Finally, Tarsave is designed with optimization in mind, ensuring high performance. Save and load operations are fast and efficient, ensuring smooth gameplay and user interactions.
 
-Manage your data securely, quickly, and without loss with Tarsave!
+Manage your data securely, efficiently, and without loss with Tarsave!
 
 **You can download the package from [Unity Asset Store](https://assetstore.unity.com/packages/slug/301159)**
 
